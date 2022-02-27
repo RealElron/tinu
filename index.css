@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-image: url(https://images.unsplash.com/photo-1455267847942-f4fdb784f0c5?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb);
 }
 .header {
   
@@ -10,7 +10,7 @@ body {
 h1 {
   color: red;
   text-align: center;
-  background-image: url(https://images.unsplash.com/photo-1455267847942-f4fdb784f0c5?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb);
+ 
   height: 400px;
 }
 
